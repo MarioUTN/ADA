@@ -1,0 +1,19 @@
+tecnica de escala min - max
+
+tecnica de validacion cruzada
+
+	logotipo
+	nombre de empresa
+	slogan
+	hojas de vida (formato unico de estudiantes)
+	instagram, facebook, correo utn, datos personales publicos, eduacacion(colegio, universidad)
+	experiencia
+	areas de trabajo que nos guste
+	habilidades personales(nivel de ingles)
+	#nombre de la empresa a la que podamos auditar
+	
+Artficial Intelligence
+	Unit 3
+	Vision for Computer
+	
+	
